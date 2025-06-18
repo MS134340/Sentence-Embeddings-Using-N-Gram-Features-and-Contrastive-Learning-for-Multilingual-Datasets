@@ -22,17 +22,17 @@ This project explores a novel approach to generating sentence embeddings by leve
 ---
 
 ## 🛠️ Setup & Usage
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MS134340/Sentence-Embeddings-Using-N-Gram-Features-and-Contrastive-Learning-for-Multilingual-Datasets.git
    cd Sentence-Embeddings-Using-N-Gram-Features-and-Contrastive-Learning-for-Multilingual-Datasets
 
-## Install required libraries
-pip install numpy pandas scikit-learn matplotlib seaborn
+2. **Install required libraries**
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib seaborn
 
-## Run the notebook
-Open and execute the .ipynb file in Jupyter or Google Colab.
+3. **Run the notebook**
+   Open and execute the .ipynb file in Jupyter or Google Colab.
 
 ## 📊 Results Summary
 - Outperformed simple TF-IDF and averaging methods.

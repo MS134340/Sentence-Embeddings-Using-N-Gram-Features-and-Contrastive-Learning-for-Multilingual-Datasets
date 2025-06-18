@@ -30,6 +30,8 @@ This project explores a novel approach to generating sentence embeddings by leve
 
 ## Install required libraries
 bash
+copy
+edit
 pip install numpy pandas scikit-learn matplotlib seaborn
 
 ## Run the notebook

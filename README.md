@@ -29,15 +29,12 @@ This project explores a novel approach to generating sentence embeddings by leve
    cd Sentence-Embeddings-Using-N-Gram-Features-and-Contrastive-Learning-for-Multilingual-Datasets
 
 ## Install required libraries
-bash
-copy
-edit
 pip install numpy pandas scikit-learn matplotlib seaborn
 
 ## Run the notebook
 Open and execute the .ipynb file in Jupyter or Google Colab.
 
-📊 Results Summary
+## 📊 Results Summary
 -Outperformed simple TF-IDF and averaging methods.
 -Embeddings better captured sentence-level semantic similarity.
 -Contrastive loss improved clustering of similar meanings.

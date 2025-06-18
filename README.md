@@ -35,15 +35,15 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 Open and execute the .ipynb file in Jupyter or Google Colab.
 
 ## 📊 Results Summary
--Outperformed simple TF-IDF and averaging methods.
--Embeddings better captured sentence-level semantic similarity.
--Contrastive loss improved clustering of similar meanings.
+Outperformed simple TF-IDF and averaging methods.
+Embeddings better captured sentence-level semantic similarity.
+Contrastive loss improved clustering of similar meanings.
 
 🧠 Techniques Used
-- N-gram Feature Engineering
--Sentence Vector Aggregation
--Supervised Contrastive Loss
--Cosine Similarity Evaluation
+N-gram Feature Engineering
+Sentence Vector Aggregation
+Supervised Contrastive Loss
+Cosine Similarity Evaluation
 
 📂 Project Structure
 ├── Dataset/
